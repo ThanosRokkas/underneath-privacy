@@ -36,7 +36,7 @@ During onboarding, you may optionally provide:
 - Ultra-processed food flagging preference
 - Reading habits
 
-These preferences are stored **locally on your device only** using AsyncStorage. They are not uploaded to our servers.
+These preferences are stored **locally on your device** using AsyncStorage and, when you are signed in, **synced to your profile on our servers** so they persist across devices.
 
 ### 1.3 Scan History
 
