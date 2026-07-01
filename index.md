@@ -158,7 +158,7 @@ All data transmitted between the App and our servers uses HTTPS/TLS encryption.
 
 ### 6.2 Account Deletion
 
-You may request deletion of your account and all associated data by contacting us at [thanosrokkas@gmail.com](mailto:thanosrokkas@gmail.com).
+You can delete your account directly within the App by going to your profile and tapping "Delete account." You may also request deletion by contacting us at [thanosrokkas@gmail.com](mailto:thanosrokkas@gmail.com).
 
 When your account is deleted:
 
@@ -166,7 +166,7 @@ When your account is deleted:
 - Scan history associated with your user ID is removed
 - Local data on your device can be cleared by uninstalling the App
 
-We will process deletion requests within 30 days.
+In-app deletion is processed immediately. Email requests will be processed within 30 days.
 
 ---
 
