@@ -12,7 +12,7 @@ permalink: /delete-account/
 This page explains how to delete your account for **Underneath**, a food label scanning application operated by Thanos Rokkas, and what data is deleted or kept when you do.
 
 **Contact:** [thanosrokkas@gmail.com](mailto:thanosrokkas@gmail.com)
-**Website:** [underneath.app](https://underneath.app)
+**Website:** [tryunderneath.com](https://tryunderneath.com)
 
 ---
 
@@ -59,4 +59,4 @@ Local data stored on your device is removed when you uninstall the app.
 If you have any questions about deleting your account or your data, please contact us at:
 
 **Email:** [thanosrokkas@gmail.com](mailto:thanosrokkas@gmail.com)
-**Website:** [underneath.app](https://underneath.app)
+**Website:** [tryunderneath.com](https://tryunderneath.com)

@@ -11,7 +11,7 @@ title: Privacy Policy
 Underneath ("we," "our," or "the App") is a food label scanning application that helps users understand what is in the products they buy. This Privacy Policy explains how we collect, use, store, and protect your information.
 
 **Contact:** [thanosrokkas@gmail.com](mailto:thanosrokkas@gmail.com)
-**Website:** [underneath.app](https://underneath.app)
+**Website:** [tryunderneath.com](https://tryunderneath.com)
 
 ---
 
@@ -208,4 +208,4 @@ We may update this Privacy Policy from time to time. When we do, we will update 
 If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
 
 **Email:** [thanosrokkas@gmail.com](mailto:thanosrokkas@gmail.com)
-**Website:** [underneath.app](https://underneath.app)
+**Website:** [tryunderneath.com](https://tryunderneath.com)

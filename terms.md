@@ -6,7 +6,7 @@ title: Terms of Use
 # Terms of Use
 
 **Effective Date:** July 1, 2026
-**Last Updated:** July 1, 2026
+**Last Updated:** August 22, 2026
 
 These Terms of Use ("Terms") govern your use of the Underneath mobile application ("the App"), operated by Thanos Rokkas ("we," "our," or "us"). By downloading, accessing, or using the App, you agree to be bound by these Terms. If you do not agree, do not use the App.
 
@@ -69,6 +69,7 @@ You agree not to:
 - Use automated systems (bots, scrapers) to access the App
 - Circumvent any access controls or subscription requirements
 - Misrepresent your identity or impersonate another person
+- Share screenshots or recordings of the App with our name or logo removed, cropped out, or obscured (see Section 7.1)
 
 ---
 
@@ -87,6 +88,17 @@ We make reasonable efforts to ensure accuracy, but product data is sourced from 
 All content, design, branding, and code within the App are owned by us and are protected by applicable intellectual property laws. You may not copy, modify, distribute, or create derivative works based on the App without our prior written consent.
 
 Product data displayed in the App (names, ingredients, images) is sourced from Open Food Facts under the Open Database License (ODbL).
+
+### 7.1 Showing the App
+
+You may take screenshots of the App, record or stream it, and share those images and videos, including in reviews, tutorials, and social media posts, on the following conditions:
+
+- **The Underneath name and logo must remain visible and unaltered.** You may not crop out, blur, cover, erase, recolor, or replace our branding, watermarks, or app icon on any screen you show, and you may not edit a screen so that it appears to carry no branding at all.
+- You may not present the App, its screens, its scores, or its ingredient analysis as your own product or service, or as the product or service of any third party.
+- You may not use our name or logo in a way that suggests that we sponsor, endorse, or are affiliated with you, your channel, or your products, without our prior written consent.
+- You may not alter the scores, alerts, or other information shown on a screen, or present altered screens as output from the App.
+
+This permission is limited to showing the App as it appears in ordinary use. We may withdraw it at any time by written notice.
 
 ---
 
@@ -116,7 +128,7 @@ The App is provided "as is" and "as available" without warranties of any kind, w
 
 ## 12. Privacy
 
-Your use of the App is also governed by our Privacy Policy, available at [underneath.app/privacy](https://underneath.app/privacy).
+Your use of the App is also governed by our Privacy Policy, available at [thanosrokkas.github.io/underneath-privacy](https://thanosrokkas.github.io/underneath-privacy/).
 
 ---
 
@@ -137,4 +149,4 @@ These Terms are governed by and construed in accordance with the laws of Greece,
 If you have any questions about these Terms, please contact us at:
 
 **Email:** [thanosrokkas@gmail.com](mailto:thanosrokkas@gmail.com)
-**Website:** [underneath.app](https://underneath.app)
+**Website:** [tryunderneath.com](https://tryunderneath.com)
